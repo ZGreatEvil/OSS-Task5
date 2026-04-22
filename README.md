@@ -77,20 +77,9 @@ This project is open source and intended for educational use.
 
 ## 🤝 Contributing
 
-1. Fork this repository  
-2. Create a new branch  
-3. Make your changes  
-4. Commit with meaningful messages  
-5. Submit a Pull Request  
+Contributions are welcome!
 
----
-
-## ✨ Best Practices
-- Write a clear README  
-- Use meaningful commit messages  
-- Keep code simple  
-- Respond to issues quickly  
-- Be respectful to contributors  
+Please read the contribution guidelines in `CONTRIBUTING.md` before submitting changes.
 
 ---
 
