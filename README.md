@@ -37,7 +37,6 @@ It demonstrates how contributors, issues, and project data are handled using str
 1. Clone the repository
 2. Navigate to the folder
 3. Run the program
-4. Follow the on-screen instructions
 
 ---
 
