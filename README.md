@@ -1,6 +1,6 @@
 # This Project
 
-## 📖 Project Overview
+## Project Overview
 This project is a Python console-based application designed to simulate the management of an open source software project.
 
 It demonstrates how contributors, issues, and project data are handled using structured programming concepts. The system reflects real-world open source practices such as issue tracking, reporting, and collaboration.
