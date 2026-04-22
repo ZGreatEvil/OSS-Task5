@@ -139,3 +139,16 @@ with open(f"{folder}/issues.csv", "w") as file:
 urgent = [i for i in issues if i["priority"] in ["Critical", "High"]]
 
 # This identifies urgent issues based on priority level using list comprehension.
+
+
+# -------------------------------
+# BONUS: Append Urgent Issues to Report
+# -------------------------------
+
+with open(f"{folder}/project_report.txt", "a") as file:
+    file.write("\nUrgent Issues:\n")
+    for issue in urgent:
+        file.write(str(issue) + "\n")
+
+# This bonus feature appends urgent issues (Critical and High priority)
+# to the project report file for better visibility and tracking.
