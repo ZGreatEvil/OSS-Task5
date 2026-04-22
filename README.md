@@ -1,4 +1,4 @@
-# 📌 This Project
+# This Project
 
 ## 📖 Project Overview
 This project is a Python console-based application designed to simulate the management of an open source software project.
@@ -7,7 +7,7 @@ It demonstrates how contributors, issues, and project data are handled using str
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Simulate an open source project environment
 - Practice Python data structures and file handling
 - Apply version control and project management concepts
@@ -15,7 +15,7 @@ It demonstrates how contributors, issues, and project data are handled using str
 
 ---
 
-## 🚀 Features
+## Features
 - Contributor registration and management
 - Issue tracking system (Bug / Feature)
 - Priority and status handling
@@ -25,14 +25,14 @@ It demonstrates how contributors, issues, and project data are handled using str
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - Python
 - Git
 - GitHub
 
 ---
 
-## ⚙️ How to Run the Project
+## How to Run the Project
 
 1. Clone the repository
 2. Navigate to the folder
@@ -41,7 +41,7 @@ It demonstrates how contributors, issues, and project data are handled using str
 
 ---
 
-## 🔄 Workflow (Open Source Contribution)
+## Workflow (Open Source Contribution)
 
 1. Fork the repository  
 2. Clone to local machine  
@@ -53,14 +53,14 @@ It demonstrates how contributors, issues, and project data are handled using str
 
 ---
 
-## 👥 Roles
+## Roles
 - **Maintainer** → Manages the project and reviews contributions  
 - **Contributor** → Adds features or fixes issues  
 - **User** → Uses the project and reports issues  
 
 ---
 
-## 🐞 Issue Management
+## Issue Management
 - Issues are categorised as Bug or Feature  
 - Each issue includes:
   - Unique ID  
@@ -70,12 +70,12 @@ It demonstrates how contributors, issues, and project data are handled using str
 
 ---
 
-## 📜 License
+## License
 This project is open source and intended for educational use.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome!
 
@@ -83,5 +83,5 @@ Please read the contribution guidelines in `CONTRIBUTING.md` before submitting c
 
 ---
 
-## 🙌 Acknowledgement
+## Acknowledgement
 This project was developed as part of coursework on Open Source Software and GitHub practices.
