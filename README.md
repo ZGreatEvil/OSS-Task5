@@ -31,5 +31,3 @@ It demonstrates how contributors, issues, and project data are handled using str
 - GitHub
 
 ---
-
-## 📂 Project Structure
