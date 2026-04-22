@@ -31,3 +31,68 @@ It demonstrates how contributors, issues, and project data are handled using str
 - GitHub
 
 ---
+
+## ⚙️ How to Run the Project
+
+1. Clone the repository
+2. Navigate to the folder
+3. Run the program
+4. Follow the on-screen instructions
+
+---
+
+## 🔄 Workflow (Open Source Contribution)
+
+1. Fork the repository  
+2. Clone to local machine  
+3. Create a new branch  
+4. Make changes  
+5. Commit and push  
+6. Create a Pull Request  
+7. Maintainer reviews and merges  
+
+---
+
+## 👥 Roles
+- **Maintainer** → Manages the project and reviews contributions  
+- **Contributor** → Adds features or fixes issues  
+- **User** → Uses the project and reports issues  
+
+---
+
+## 🐞 Issue Management
+- Issues are categorised as Bug or Feature  
+- Each issue includes:
+  - Unique ID  
+  - Priority level  
+  - Status  
+- Issues can be updated and analysed  
+
+---
+
+## 📜 License
+This project is open source and intended for educational use.
+
+---
+
+## 🤝 Contributing
+
+1. Fork this repository  
+2. Create a new branch  
+3. Make your changes  
+4. Commit with meaningful messages  
+5. Submit a Pull Request  
+
+---
+
+## ✨ Best Practices
+- Write a clear README  
+- Use meaningful commit messages  
+- Keep code simple  
+- Respond to issues quickly  
+- Be respectful to contributors  
+
+---
+
+## 🙌 Acknowledgement
+This project was developed as part of coursework on Open Source Software and GitHub practices.
