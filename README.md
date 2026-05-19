@@ -1,84 +1,46 @@
-# Math Visualization Assignment
+# This Project
 
 ## Project Overview
-This project is a Python-based data visualization assignment that plots mathematical functions and analyzes student score data.
+This project is a Python console-based application that simulates the management of an open-source software project.
 
-It covers function plotting, custom equations, score distribution, and simple linear prediction using NumPy and Matplotlib.
+It allows users to manage contributors, track issues, perform basic data analysis, and generate output files such as reports and CSV files. The project reflects common open source practices such as issue tracking and structured data handling.
 
 ---
 
 ## Objectives
-- Visualize common mathematical functions in one figure
-- Plot a custom mixed equation
-- Analyze student score data through scatter, histogram, and bar charts
-- Apply linear regression to predict final scores from midterm scores
+- Simulate an open source project environment  
+- Practice Python data structures and file handling  
+- Apply basic project management concepts  
+- Understand issue tracking and contributor roles  
 
 ---
 
 ## Features
-- Multi-function plot with different line styles
-- Custom cubic + oscillation equation plot
-- Scatter plot of midterm vs final scores
-- Histogram of total score distribution
-- Bar chart of each student's total score
-- Best-fit line with printed score predictions
+- Contributor registration and management  
+- Issue tracking system (Bug / Feature)  
+- Priority and status handling  
+- Data analysis (grouping, counting, set operations)  
+- File export (TXT and CSV reports)  
+- Detection of urgent issues (Critical and High priority)  
 
 ---
 
 ## Tools and Technologies
-- Python 3
-- Git
-- GitHub
+- Python 3  
+- Git  
+- GitHub  
 
 ---
 
 ## Environment
 This project was made using:
-- Zed (recommended)
+- Google Colab (recommended)  
 
 ---
 
 ## Requirements
+This project uses only standard Python libraries.
 
 ### Imports Used
 ```python
-import numpy as np
-import matplotlib.pyplot as plt
-```
-
-Install dependencies:
-```bash
-pip install numpy matplotlib
-```
-
----
-
-## How to Run
-```bash
-python3 math_visualization.py
-```
-
-All plots are saved as .png files in the same directory.
-
----
-
-## Screenshots
-
-### Mathematical Function Visualization
-![Function Plot](function_plot.png)
-
-### Midterm → Final Score Prediction
-![Score Prediction](score_prediction.png)
-
----
-
-## Reflection
-
-**How does visualization help us understand mathematical functions and data?**
-Visualization helps us understand relationships and patterns harvestable from data, but hard to detect in raw numbers. It also eases comparing multiple functions since the results are shown together in a single graph.
-
-**Which plot was most useful in this assignment and why?**
-The best-fit line scatter plot (Task 4) was the most useful. It actually does something with the data instead of just showing it to the viewer.
-
-**What is the role of NumPy and Matplotlib in your project?**
-NumPy handles all the math — generating evenly spaced x values with linspace, computing array operations, and fitting the regression line with polyfit. Matplotlib takes those arrays and turns them into clean, labeled plots that can be saved as image files.
+import os
